@@ -1,0 +1,26 @@
+/*JButton addItem = new JButton("ADD");
+            addItem.setBounds(230, 180, 400, 40);
+            addItem.setFont(new Font("Roboto Mono",Font.BOLD,20));
+
+            addItem.addActionListener(new ActionListener(){
+                public void actionPerformed(ActionEvent ae){
+                    String sqntyFld = qntyFld.getText();
+                    
+                    if(isValidNumber(sqntyFld) && itemName!=null){
+                        int quantity = Integer.parseInt(sqntyFld);
+                        orderedArea.append("P" + itemPrice + " x" + quantity + " " + itemName + "\n");
+                        //JOptionPane.showMessageDialog(null, "P" + itemPrice + " - " + itemName + " x" + quantity + " Added Successfully");
+                        qntyFld.setText(null);
+                        itemPrice = null;
+                        itemName = null;
+                    } else {
+                        JOptionPane.showMessageDialog(null, "- QUANTITY INPUT NEEDED -");
+                    }
+                }
+            });*/
+            //panelOrderAdd.add(addItem);
+
+            //panelMenu.setBounds(10, 10, 10, 10);
+        //panelOrderAdd.setLayout(new FlowLayout());
+        //panelOrder.setPreferredSize(new Dimension(450,100));
+        //panelOrderAdd.setBorder(BorderFactory.createEmptyBorder(40, 0, 50, 0)); //top, left, bottom, and right
