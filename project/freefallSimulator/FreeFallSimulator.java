@@ -1,4 +1,4 @@
-package project;
+package project.freefallSimulator;
 
 //introducing classes
 //instance-variables

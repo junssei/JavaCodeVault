@@ -6,8 +6,8 @@ class PointOfSale{
 
 public class mainOne{
 	public static void main(String args[]){
-		Scanner s = new Scanner;
-
+		Scanner s = new Scanner(System.in);
+			
 		
 	}
 }

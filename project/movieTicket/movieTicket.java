@@ -1,4 +1,4 @@
-package project;
+package project.movieTicket;
 import java.util.Scanner;
 
 public class movieTicket{
